@@ -1,6 +1,6 @@
 # Graph Algorithms & Visualization Library
 
-![Java](https://img.shields.io/badge/Language-Java-orange) ![CSharp](https://img.shields.io/badge/Language-C%23-blue) ![Algorithms](https://img.shields.io/badge/Category-Algorithms-green)
+![Java](https://img.shields.io/badge/Language-Java-orange) ![Algorithms](https://img.shields.io/badge/Category-Algorithms-green)
 
 A comprehensive collection of graph theory implementations featuring interactive visual editors, real-world map processing, and complex optimization algorithms.
 
